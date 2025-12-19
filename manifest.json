@@ -2,7 +2,7 @@
   "name": "Homework_12",
   "type": "r",
   "r": {
-    "version": "4.2.2",
+    "version": "4.5.2",
     "packages": {
       "readxl": "",
       "tidyverse": "",
