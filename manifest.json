@@ -1,14 +1,17 @@
 {
   "name": "Homework_12",
   "type": "r",
-  "packages": [
-    "readxl",
-    "tidyverse",
-    "tidyquant",
-    "writexl",
-    "lubridate",
-    "scales",
-    "stringr",
-    "ggplot2"
-  ]
+  "r": {
+    "version": "4.2.2",
+    "packages": {
+      "readxl": "",
+      "tidyverse": "",
+      "tidyquant": "",
+      "writexl": "",
+      "lubridate": "",
+      "scales": "",
+      "stringr": "",
+      "ggplot2": ""
+    }
+  }
 }
